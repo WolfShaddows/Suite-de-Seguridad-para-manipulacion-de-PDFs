@@ -1,4 +1,4 @@
-la función principal de herramientas como el buscador en el PDF y los demás métodos en la suite de seguridad es proporcionar al usuario la capacidad de realizar operaciones específicas sin revelar información sensible a otras personas. Aquí hay una breve descripción de cada una de estas funciones:
+La función principal de herramientas como el buscador en el PDF y los demás métodos en la suite de seguridad es proporcionar al usuario la capacidad de realizar operaciones específicas sin revelar información sensible a otras personas. Aquí hay una breve descripción de cada una de estas funciones:
 
 ### Buscador en el PDF (BuscadorPDFs):
 
